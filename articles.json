@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tech",
+      "news"
+    ],
+    "date": "2024-12-03T08:53:16.834Z"
+  },
+  {
+    "id": 2,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tech",
+      "news"
+    ],
+    "date": "2024-12-03T09:53:23.945Z"
+  }
+]
